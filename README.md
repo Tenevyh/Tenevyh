@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tenevyh
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java, Kotlin, Android
 - 🌱 I’m currently studying on the JavaRush platform.
 - 💞️ I will be glad to cooperate on any project.
 - 📫 tenevyh@gmail.com 
